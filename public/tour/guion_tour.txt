@@ -1,0 +1,24 @@
+GUION DEL RECORRIDO GUIADO — Aula Virtual FUNDAMETZ
+Cada bloque es un audio. Guarde cada uno con el nombre indicado (ej. bienvenida.mp3)
+en esta carpeta public/tour/ y agregue el id a "audios" en manifest.json, por ejemplo:
+{ "audios": ["bienvenida", "plan", "pendientes"] }
+Los pasos sin mp3 se narran con la voz del navegador.
+========================================================================
+
+bienvenida.mp3  (127 caracteres)
+En este breve recorrido verás dónde están tu plan de capacitación, tus cursos y la evaluación final. Toma menos de dos minutos.
+
+plan.mp3  (135 caracteres)
+Aquí ves las horas acumuladas, los cursos acreditados y el siguiente paso pendiente. Al completar el plan, aquí aparece tu certificado.
+
+pendientes.mp3  (90 caracteres)
+Usa las pestañas Todos, Pendientes y Aprobados para ubicar rápidamente tus capacitaciones.
+
+curso.mp3  (120 caracteres)
+Cada tarjeta es un curso asignado. Al abrirlo encontrarás sus lecturas, las actividades prácticas y la evaluación final.
+
+modulo.mp3  (173 caracteres)
+Este panel muestra las horas que acredita el curso y tu nota del módulo. Las actividades prácticas se responden por escrito después de las lecturas y suman puntos a tu nota.
+
+evaluacion.mp3  (207 caracteres)
+Al terminar las lecturas y las actividades se habilita la evaluación final. Necesitas la nota mínima para aprobar y tienes un número limitado de intentos. Puedes volver a ver este recorrido desde el Tablero.
